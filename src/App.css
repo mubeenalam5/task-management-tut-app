@@ -1,9 +1,23 @@
 .App {
-  text-align: center;
+  text-align: left;
+}
+
+.Task-div {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 60px;
+}
+
+.Tasks-div {
+  padding-bottom: 80px;
+}
+
+.btnn {
+  right: 1px;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 8vmin;
   pointer-events: none;
 }
 
